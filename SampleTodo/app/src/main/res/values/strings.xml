@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoリスト</string>
+    <string name="task_edit">タスク</string>
+    <string name="add_task">追加</string>
+</resources>
